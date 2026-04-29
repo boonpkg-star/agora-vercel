@@ -1,0 +1,6 @@
+{
+  "name": "agora-vercel",
+  "dependencies": {
+    "agora-access-token": "^2.0.0"
+  }
+}
